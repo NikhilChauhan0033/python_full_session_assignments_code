@@ -1,0 +1,11 @@
+,id,physics,chemistry,maths,branch,total,result
+0,1,89,82,73,cs,244,pass
+1,2,78,76,56,cs,210,fail
+2,3,92,73,67,cs,232,pass
+3,4,73,87,85,cs,245,pass
+4,5,56,82,75,cs,213,fail
+5,6,84,67,89,cs,240,pass
+6,7,70,85,73,cs,228,pass
+7,8,67,90,98,cs,255,pass
+8,9,50,54,54,cs,158,fail
+9,10,80,59,83,cs,222,pass

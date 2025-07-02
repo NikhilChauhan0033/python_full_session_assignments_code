@@ -1,0 +1,50 @@
+Apna College Python Tutorial Notes
+[video watch on YouTube Link Here "http://youtube.com/watch?v=ERCMXc8x7mc&list=WL&index=9&t=17408s"]
+
+Chatpter No.1 : Variable And DataTypes
+
+String we can print a string using 3 types 
+
+str1 = "nik"
+str2 = 'nik'
+str3 = '''nik'''  and print it
+
+python is a implicit language means we dont want to define type of variable when we create
+in other languages are explicit like java and all we have to define a type of variable like int num1 = 12 , string str1 = "nik"
+
+when ever there is operation like this 
+
+A, B=2,3
+C=4
+print(A+B*C) 
+
+so here,  alway 1st priority goes to * multiplication it is the rule of math that means first we multiply and then addition
+so here , 2+3*4 (3*4 = 12, 12 + 2 = 14)
+
+anothere is a integer and float both the value then always answer should be in float number like
+
+A,B=2,5.0
+c = A*b
+print(c) and is 50.0
+
+// it is also known as a integer division this symbol use in python it is give you value in floor means closest value
+
+always remember if there is not and or this 3 logical operator are in same operation then always 1st priority goes to not then and and then or like this [not > and > or]
+
+there is 2 thing in python conversion and casting 
+conversion python do automatically and the casting we have do manually like thre is 
+
+given below is converion pythn automatic undestand the datatype and give the sum of numbers
+a = 2
+b = 2.4
+sum = a+b
+
+and here is casting 
+a = 2
+b = "22" here we got an error bcz here we can not get 24 here we get 222 bcz we can not sum the str and int so here we do casting like 
+
+a = 2
+b = int("22")
+sum = a+b
+
+

@@ -1,0 +1,50 @@
+we learn and i know thw library and all 
+
+python is innterprited language which means python run code lien by line python does not code entire code then execute
+python language execute code line by line
+
+Basic of pythons like 
+string methods [for single values]
+
+list methos, tuple methods, set and dict method etc
+for multiple values list = [] , tuple = () , set = {} , dictionary = {}
+concatination , condition statement that means if else,  control statements for loop and while loop
+
+operators,function in python,list comprehension , ternory operator,  lambda function / anonymous frunction [single line function] [use for only sort function], map and filter
+
+1.Ascii table   [here you can get all the keyword keys numbers]
+
+2.Recursion function  [recursion function call itself repeated till condition is not satishfied]
+
+3. modules 
+# Three types of module
+[inbuild module ,user defined module [means user create there own module] ,install module]
+
+4.API fetching  
+[import json , import requests]  Two types of api [free and paid]
+
+5.BeautifulSoup  
+[web scrapping , the data is in form of HTML,use of scrapping easy way to use data from any website  [easy to fetch live data]  means can easy get [fetch] live website data in your python using BeautifulSoup]
+
+6.pandas  
+[if you want to changes in excel sheet you can do with pandas ,using pandas you can change, add, fetch this type of task you can do in excel ,extension excel files is csv and tsv]
+
+7.exception handling / error handling  [using try and except]
+[ exception handling use for handle error or exception ]
+
+8.tkinter
+[tkinter is library ,tkinter use for create python application, using tkinter use can create pyton application, tkinter use for create G[Graphics User Interface], [use for forms related works]]
+
+9.Turtules
+[turtle is like the tkinter , turtle use for creating games using python [in the tinker you can create application using tkinter]]
+
+10.File handling [means you can add , delete, read, write the files using python [txt files]]
+
+11. mysql with python
+
+12. numpy [numpy use for mathematics ]
+
+13. done with oops concept
+where learn class , object , 4 pillars of oops [inheritance,abstraction,encapsulation,polymorisum]
+
+14. sklearn
